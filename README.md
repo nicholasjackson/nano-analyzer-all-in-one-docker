@@ -1,4 +1,4 @@
-# watsonx
+# Nano Analyzer All In One
 
 Docker environment for running [nano-analyzer](https://github.com/nicholasjackson/nano-analyzer/tree/f-bob)
 against [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) using Bob Shell as the
